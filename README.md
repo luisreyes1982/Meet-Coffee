@@ -1,4 +1,4 @@
-# Proyecto---Meet-Coffee
+# Proyecto-Meet-Coffee
 Requerimientos
 1. Estructura:​ La página debe contener la estructura básica de un archivo HTML.
 2. Cabecera: La página debe contener los siguientes subelementos: título, codificación,
